@@ -1,0 +1,9 @@
+package com.library.repository;
+
+public class BookRepository {
+
+    public void getAllBooks() {
+        System.out.println("BookRepository: Returning list of books.");
+    }
+
+}
