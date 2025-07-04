@@ -1,0 +1,5 @@
+com\cognizant\orm_compare\model\Employee.class
+com\cognizant\orm_compare\util\HibernateUtil.class
+com\cognizant\orm_compare\HibernateMain.class
+com\cognizant\orm_compare\OrmCompareApplication.class
+com\cognizant\orm_compare\hibernate\EmployeeHibernateService.class
